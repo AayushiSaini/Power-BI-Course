@@ -51,3 +51,7 @@ Module 1- Basic Charts
 
 
 ![Screenshot (560)](https://github.com/AayushiSaini/Power-BI-Course/assets/118258257/02e0794c-3710-4b2a-a820-b3d7f3262cc6)
+
+--------------------------------------------Map with Pie Chart-------------------------------------------------------------
+
+
